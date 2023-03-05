@@ -1,5 +1,5 @@
 # 👋 Hey there!  
-I'm Tim, an aspiring full stack developer interested in
+I'm [Tim](https://www.linkedin.com/in/tim-bella), an aspiring full stack developer interested in
 <br>
 working with like-minded people and the newest technologies. 
 # 👨‍💻 My Tech Stack 
